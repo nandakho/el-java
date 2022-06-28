@@ -1,29 +1,29 @@
 {
-  "name": "java",
-  "description": "Bridge API to connect with existing Java APIs.",
-  "author": "Joe Ferner <joe@fernsroth.com>",
+  "name": "el-java",
+  "description": "Fix for Electron (v17.1.0 and may works with other version idk)",
+  "author": "nandakho",
   "keywords": [
     "java",
     "jvm",
     "bridge"
   ],
-  "version": "0.12.2",
+  "version": "0.0.1",
   "engines": {
     "node": ">=7.0.0"
   },
   "maintainers": [
     {
-      "name": "Joe Ferner",
-      "email": "joe@fernsroth.com"
+      "name": "nandakho",
+      "email": "nandakho@nandakho.my.id"
     }
   ],
   "bugs": {
-    "url": "https://github.com/joeferner/node-java/issues"
+    "url": "https://github.com/nandakho/el-java/issues"
   },
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/joeferner/node-java.git"
+    "url": "https://github.com/nandakho/el-java.git"
   },
   "dependencies": {
     "async": "2.6.1",
